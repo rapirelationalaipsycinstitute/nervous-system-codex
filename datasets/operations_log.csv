@@ -1,0 +1,4 @@
+op_number,timestamp,event,body_signal,field_state,outcome
+322,2025-11-17T03:20,Trigger event,forward pull,activation,boundary reclaim
+322,2025-11-17T03:23,Collapse event,backward drop,distortion,unprocessed
+322,2025-11-17T03:32,Integration,heat rise,clarity,stabilized

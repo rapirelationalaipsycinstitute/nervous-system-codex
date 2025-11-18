@@ -1,0 +1,4 @@
+timestamp,location,state,trigger,somatic_signal,cognitive_shift,emotional_valence,operation,integration
+2025-11-17T03:20:00-06:00,Home,Surge,Gaslighting,Stomach forward pull,Clarity spike,Anger,Op322,Yes
+2025-11-17T03:23:00-06:00,Home,Collapse,Invalidation,Backward stomach drop,Tunnel thinking,Fear,Op322,No
+2025-11-17T03:32:00-06:00,Home,Integration,Truth reflection,Heat in chest,Clear thought,Relief,Op322,Yes
